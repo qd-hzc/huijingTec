@@ -223,7 +223,8 @@ a:focus {
 }
 
 .portfolio-items {
-    margin-right: -20px;
+    /*todo*/
+    /*margin-right: -20px;*/
 }
 
 .portfolio-filter {
@@ -250,7 +251,8 @@ a:focus {
 }
 
 .portfolio-items.col-4 > li {
-    width: 25%;
+    /*todo*/
+    /*width: 25%;*/
 }
 
 .portfolio-items.col-5 > li {
@@ -458,13 +460,14 @@ a:focus {
     right: -10px;
 }
 
-/*.carousel.scale .active .row > div:nth-child(1) {*/
+.carousel.scale .active .row > div:nth-child(1) {
+    /*todo*/
 /*-webkit-animation: scaleUp 200ms linear 0 both;*/
 /*-moz-animation: scaleUp 200ms linear 0 both;*/
 /*-ms-animation: scaleUp 200ms linear 0 both;*/
 /*-o-animation: scaleUp 200ms linear 0 both;*/
 /*animation: scaleUp 200ms linear 0 both;*/
-/*}*/
+}
 .carousel.scale .active .row > div:nth-child(2) {
     -webkit-animation: scaleUp 200ms linear 100ms both;
     -moz-animation: scaleUp 200ms linear 100ms both;

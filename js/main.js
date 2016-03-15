@@ -22,7 +22,7 @@ jQuery(function ($) {
         event.preventDefault();
         var target = $(this).find('>a').prop('hash');
         $('html, body').animate({
-            scrollTop: $(target).offset().top - 80
+            scrollTop: $(target).offset().top
         }, 500);
     });
 
