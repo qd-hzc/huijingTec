@@ -478,6 +478,7 @@ a:focus {
   width: 200px;
   height: 78px;
   background: url(../images/logo.png) no-repeat 0 50%;
+  background-size: 100px 100px;
 }
 .navbar-default .navbar-nav > li {
   margin-left: 1px;
